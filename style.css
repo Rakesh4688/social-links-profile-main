@@ -32,34 +32,29 @@ main {
   }
 
 .jessica_img {
-    width: 25%;
+    width: 24%;
     border-radius: 50%;
     display: inline-block;
     left: 40%;
     margin: 20px auto;
 }
 
-h1, .description , button {
+h2, p , button {
     margin-bottom: 5px;
     color: hsl(0, 0%, 100%);
-
 }
 
-h1 {
-    font-size: 27px;
-}
-
-h1, .description {
+h2, p {
     font-weight: 400;
 }
 
-.description {
+p {
     font-size: 14px;
     color: hsl(0, 0%, 80%);;
-    margin-bottom: 22px;
+    margin-bottom: 25px;
 }
 
-.place {
+h5 {
     margin-bottom: 30px;
     color: hsl(75, 94%, 57%);
     font-weight: 600;
@@ -70,8 +65,8 @@ button {
     background-color: hsl(0, 0%, 20%);
     display: block;
     padding: 15px 80px ;
-    width: 88%;
-    border-radius: 10px;
+    width: 90%;
+    border-radius: 6px;
     border: 0;
     margin: 15px auto;
     font-weight: 700;
